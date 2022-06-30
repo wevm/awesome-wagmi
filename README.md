@@ -40,6 +40,7 @@ Collection of awesome [wagmi](https://github.com/tmm/wagmi)-related projects and
 
 - [create-rainbowkit](https://github.com/rainbow-me/rainbowkit/tree/main/packages/create-rainbowkit) Scaffold a new RainbowKit + wagmi + Next.js app
 - [web3-scaffold](https://github.com/holic/web3-scaffold) Quickly get up and running on web3
+- [create-web3](https://www.npmjs.com/package/create-web3) Run `npx create-web3` in your terminal for a quick starter kit
 - [web3-authentication](https://github.com/vercel/examples/tree/main/solutions/web3-authentication) from [vercel/examples](https://github.com/vercel/examples)
 - [web3-data-fetching](https://github.com/vercel/examples/tree/main/solutions/web3-data-fetching) from [vercel/examples](https://github.com/vercel/examples)
 - [web3-sessions](https://github.com/vercel/examples/tree/main/solutions/web3-sessions) from [vercel/examples](https://github.com/vercel/examples)
@@ -68,7 +69,6 @@ If you find wagmi useful, please consider supporting development. Thank you 🙏
 - [GitHub Sponsors](https://github.com/sponsors/tmm?metadata_campaign=gh_readme_support)
 - [Gitcoin Grant](https://gitcoin.co/grants/4493/wagmi-react-hooks-library-for-ethereum)
 - [awkweb.eth](https://etherscan.io/enslookup-search?search=awkweb.eth)
-
 
 ## Contributing
 
