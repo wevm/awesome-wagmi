@@ -18,10 +18,14 @@ Collection of awesome [wagmi](https://github.com/tmm/wagmi)-related projects and
 ### Packages
 
 - [RainbowKit](https://github.com/rainbow-me/rainbowkit) The best way to connect a wallet 🌈 🧰
-- [@gnosis.pm/safe-apps-wagmi](https://github.com/safe-global/safe-apps-sdk/tree/master/packages/safe-apps-wagmi) Connector for Gnosis Safe
 - [@thirdweb-dev/react](https://github.com/thirdweb-dev/react)
 - [vagmi](https://vagmi.vercel.app) A WIP Vue port of wagmi
-- [wagmi-magic-connector](https://github.com/EveripediaNetwork/wagmi-magic-connector) Connector for Magic
+
+### Connectors
+
+- [@gnosis.pm/safe-apps-wagmi](https://github.com/safe-global/safe-apps-sdk/tree/master/packages/safe-apps-wagmi) Connector for [Gnosis Safe](https://gnosis-safe.io)
+- [Ledger Live Wagmi Connector](https://www.npmjs.com/package/@ledgerhq/ledger-live-wagmi-connector) Connector for [Ledger Live](https://www.ledger.com/ledger-live)
+- [wagmi-magic-connector](https://github.com/EveripediaNetwork/wagmi-magic-connector) Connector for [Magic](https://magic.link)
 
 ### Products
 
@@ -49,6 +53,7 @@ Collection of awesome [wagmi](https://github.com/tmm/wagmi)-related projects and
 
 ### Articles
 
+- [Build and Upload a Fully Decentralised App using Bundlr](https://ropats16.hashnode.dev/build-and-upload-a-fully-decentralised-app-using-bundlr)
 - [`useWaitForTransaction` Twitter thread](https://twitter.com/peduarte/status/1527299439009726466)
 
 ### Tutorials
