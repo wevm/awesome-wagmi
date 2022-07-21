@@ -37,6 +37,7 @@ Collection of awesome [wagmi](https://github.com/tmm/wagmi)-related projects and
 - [SushiSwap](https://sushi.com) A community-built open-source ecosystem of all the DeFi tools you need 🍣🔱 [GitHub](https://github.com/sushiswap/sushiswap)
 - [midwit](https://midwit.vercel.app) An experiment for combining narrative with smart contracts.
 - [moonbirds](https://www.moonbirds.xyz)
+- [Flair](https://flair.finance) An open-source platform to build NFT projects with ready-made contracts, React SDK, and a handy dashboard.
 
 [GitHub Discussion with more projects ](https://github.com/tmm/wagmi/discussions/201)
 
