@@ -48,6 +48,7 @@ Collection of awesome [wagmi](https://github.com/tmm/wagmi)-related projects and
 - [web3-authentication](https://github.com/vercel/examples/tree/main/solutions/web3-authentication) from [vercel/examples](https://github.com/vercel/examples)
 - [web3-data-fetching](https://github.com/vercel/examples/tree/main/solutions/web3-data-fetching) from [vercel/examples](https://github.com/vercel/examples)
 - [web3-sessions](https://github.com/vercel/examples/tree/main/solutions/web3-sessions) from [vercel/examples](https://github.com/vercel/examples)
+- [create-web3-frontend](https://github.com/dhaiwat10/create-web3-frontend)
 
 ## Resources
 
@@ -55,6 +56,7 @@ Collection of awesome [wagmi](https://github.com/tmm/wagmi)-related projects and
 
 - [Build and Upload a Fully Decentralised App using Bundlr](https://ropats16.hashnode.dev/build-and-upload-a-fully-decentralised-app-using-bundlr)
 - [`useWaitForTransaction` Twitter thread](https://twitter.com/peduarte/status/1527299439009726466)
+- [Build An NFT Minting Page With RainbowKit & Wagmi](https://ankr.hashnode.dev/build-an-nft-minting-page-with-rainbowkit-wagmi)
 
 ### Tutorials
 
@@ -66,6 +68,7 @@ Collection of awesome [wagmi](https://github.com/tmm/wagmi)-related projects and
 ### Videos
 
 - [Introducing RainbowKit 🌈 🧰](https://www.youtube.com/watch?v=5dcjg6c5UG4)
+- [Sign-in with Ethereum Tutorial w/ React & wagmi](https://www.youtube.com/watch?v=3QgqoHggwhg)
 
 ## Contributing
 
