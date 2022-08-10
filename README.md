@@ -16,6 +16,7 @@ Collection of awesome [wagmi](https://github.com/tmm/wagmi)-related projects and
 
 ### Packages
 
+- [ConnectKit](https://docs.family.co/connectkit) — Connecting a wallet, made simple.
 - [RainbowKit](https://github.com/rainbow-me/rainbowkit) — The best way to connect a wallet 🌈 🧰
 - [@thirdweb-dev/react](https://github.com/thirdweb-dev/react) — thirdweb React SDK
 - [vagmi](https://vagmi.vercel.app) — A WIP Vue port of wagmi
