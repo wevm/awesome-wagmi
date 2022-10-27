@@ -51,6 +51,7 @@ Collection of awesome [wagmi](https://github.com/tmm/wagmi)-related projects and
 - [web3-data-fetching](https://github.com/vercel/examples/tree/main/solutions/web3-data-fetching) from [vercel/examples](https://github.com/vercel/examples)
 - [web3-sessions](https://github.com/vercel/examples/tree/main/solutions/web3-sessions) from [vercel/examples](https://github.com/vercel/examples)
 - [create-web3-frontend](https://github.com/dhaiwat10/create-web3-frontend)
+- [vite-wagmi-starter](https://github.com/fisand/vite-wagmi-starter)
 
 ## Resources
 
