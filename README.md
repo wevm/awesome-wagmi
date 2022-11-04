@@ -21,6 +21,7 @@ Collection of awesome [wagmi](https://github.com/tmm/wagmi)-related projects and
 - [ReservoirKit](https://docs.reservoir.tools/docs/reservoir-kit) - A developer toolkit for buying, selling and managing NFTs.
 - [@thirdweb-dev/react](https://github.com/thirdweb-dev/react) — thirdweb React SDK
 - [vagmi](https://vagmi.vercel.app) — A WIP Vue port of wagmi
+- [Web3Modal](https://web3modal.com) — Your on-ramp to web3 multichain wallets.
 
 ### Connectors
 
