@@ -2,14 +2,14 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Collection of awesome [wagmi](https://github.com/tmm/wagmi)-related projects and resources.
+Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projects and resources.
 
 ## Official
 
 - [Documentation](https://wagmi.sh)
-- [Repository](https://github.com/tmm/wagmi)
-- [Examples](https://github.com/tmm/wagmi/tree/main/examples)
-- [GitHub Discussions](https://github.com/tmm/wagmi/discussions)
+- [Repository](https://github.com/wagmi-dev/wagmi)
+- [Examples](https://github.com/wagmi-dev/wagmi/tree/main/examples)
+- [GitHub Discussions](https://github.com/wagmi-dev/wagmi/discussions)
 - [Twitter](https://twitter.com/wagmi_sh)
 
 ## Projects
@@ -41,10 +41,11 @@ Collection of awesome [wagmi](https://github.com/tmm/wagmi)-related projects and
 - [moonbirds](https://www.moonbirds.xyz)
 - [Flair](https://flair.finance) — Open-source platform to build NFT projects with ready-made contracts, React SDK, and a handy dashboard.
 
-[GitHub Discussion with more projects ](https://github.com/tmm/wagmi/discussions/201)
+[GitHub Discussion with more projects ](https://github.com/wagmi-dev/wagmi/discussions/201)
 
 ### Templates
 
+- [create-wagmi](https://github.com/wagmi-dev/create-wagmi) — Create wagmi apps with one command
 - [create-rainbowkit](https://github.com/rainbow-me/rainbowkit/tree/main/packages/create-rainbowkit) — Scaffold a new RainbowKit + wagmi + Next.js app
 - [web3-scaffold](https://github.com/holic/web3-scaffold) — Quickly get up and running on web3
 - [create-web3](https://www.npmjs.com/package/create-web3) — Run `npx create-web3` in your terminal for a quick starter kit
