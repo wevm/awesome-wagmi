@@ -29,6 +29,10 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 - [Ledger Live Wagmi Connector](https://www.npmjs.com/package/@ledgerhq/ledger-live-wagmi-connector) — Connector for [Ledger Live](https://www.ledger.com/ledger-live)
 - [wagmi-magic-connector](https://github.com/EveripediaNetwork/wagmi-magic-connector) — Connector for [Magic](https://magic.link)
 
+### Dev Tools
+
+- [Blacksmith](https://github.com/blacksmith-eth/blacksmith) — Streamline smart contract development with a generated frontend that adapts to your contract interface.
+
 ### Products
 
 - [ENS](https://ens.domains) — Decentralised naming for wallets, websites, & more. [GitHub](https://github.com/ensdomains/ens-app-v3)
