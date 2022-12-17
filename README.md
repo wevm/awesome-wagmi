@@ -41,7 +41,7 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 - [PoolTogether](https://pooltogether.com) — Crypto-powered savings protocol based on Premium Bonds. [GitHub](https://github.com/pooltogether/wallet-connection)
 - [Stripe](https://stripe.com)
 - [SushiSwap](https://sushi.com) — Community-built open-source ecosystem of all the DeFi tools you need 🍣🔱 [GitHub](https://github.com/sushiswap/sushiswap)
-- [midwit](https://midwit.vercel.app) — Eperiment for combining narrative with smart contracts.
+- [midwit](https://midwit.vercel.app) — Experiment for combining narrative with smart contracts.
 - [moonbirds](https://www.moonbirds.xyz)
 - [Flair](https://flair.finance) — Open-source platform to build NFT projects with ready-made contracts, React SDK, and a handy dashboard.
 
