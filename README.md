@@ -49,16 +49,16 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 
 ### Templates
 
-- [create-wagmi](https://github.com/wagmi-dev/create-wagmi) — Create wagmi apps with one command
-- [create-rainbowkit](https://github.com/rainbow-me/rainbowkit/tree/main/packages/create-rainbowkit) — Scaffold a new RainbowKit + wagmi + Next.js app
-- [web3-scaffold](https://github.com/holic/web3-scaffold) — Quickly get up and running on web3
 - [create-web3](https://www.npmjs.com/package/create-web3) — Run `npx create-web3` in your terminal for a quick starter kit
+- [create-web3-frontend](https://github.com/dhaiwat10/create-web3-frontend)
+- [create-rainbowkit](https://github.com/rainbow-me/rainbowkit/tree/main/packages/create-rainbowkit) — Scaffold a new RainbowKit + wagmi + Next.js app
+- [create-wagmi](https://github.com/wagmi-dev/create-wagmi) — Create wagmi apps with one command
+- [Nexth](https://github.com/wslyvh/nexth/) — a Next.js + Ethereum starter kit to quickly ship Web3 Apps ⚡
+- [vite-wagmi-starter](https://github.com/fisand/vite-wagmi-starter)
 - [web3-authentication](https://github.com/vercel/examples/tree/main/solutions/web3-authentication) from [vercel/examples](https://github.com/vercel/examples)
 - [web3-data-fetching](https://github.com/vercel/examples/tree/main/solutions/web3-data-fetching) from [vercel/examples](https://github.com/vercel/examples)
+- [web3-scaffold](https://github.com/holic/web3-scaffold) — Quickly get up and running on web3
 - [web3-sessions](https://github.com/vercel/examples/tree/main/solutions/web3-sessions) from [vercel/examples](https://github.com/vercel/examples)
-- [create-web3-frontend](https://github.com/dhaiwat10/create-web3-frontend)
-- [vite-wagmi-starter](https://github.com/fisand/vite-wagmi-starter)
-- [Nexth](https://github.com/wslyvh/nexth/) — a Next.js + Ethereum starter kit to quickly ship Web3 Apps ⚡
 
 ## Resources
 
