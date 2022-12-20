@@ -58,6 +58,7 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 - [web3-sessions](https://github.com/vercel/examples/tree/main/solutions/web3-sessions) from [vercel/examples](https://github.com/vercel/examples)
 - [create-web3-frontend](https://github.com/dhaiwat10/create-web3-frontend)
 - [vite-wagmi-starter](https://github.com/fisand/vite-wagmi-starter)
+- [Nexth](https://github.com/wslyvh/nexth/) — a Next.js + Ethereum starter kit to quickly ship Web3 Apps ⚡
 
 ## Resources
 
