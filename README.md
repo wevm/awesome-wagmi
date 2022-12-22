@@ -16,10 +16,10 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 
 ### Packages
 
+- [@thirdweb-dev/react](https://github.com/thirdweb-dev/react) — thirdweb React SDK
 - [ConnectKit](https://docs.family.co/connectkit) — Connecting a wallet, made simple.
 - [RainbowKit](https://github.com/rainbow-me/rainbowkit) — The best way to connect a wallet 🌈 🧰
 - [ReservoirKit](https://docs.reservoir.tools/docs/reservoir-kit) - A developer toolkit for buying, selling and managing NFTs.
-- [@thirdweb-dev/react](https://github.com/thirdweb-dev/react) — thirdweb React SDK
 - [vagmi](https://vagmi.vercel.app) — A WIP Vue port of wagmi
 - [Web3Modal](https://web3modal.com) — Your on-ramp to web3 multichain wallets.
 
@@ -37,13 +37,13 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 
 - [ENS](https://ens.domains) — Decentralised naming for wallets, websites, & more. [GitHub](https://github.com/ensdomains/ens-app-v3)
 - [Foundation](https://foundation.app) — Foundation is a web3 destination.
+- [Flair](https://flair.finance) — Open-source platform to build NFT projects with ready-made contracts, React SDK, and a handy dashboard.
 - [Lenster](https://lenster.xyz) — Decentralized, and permissionless social media app built with Lens Protocol 🌿 [GitHub](https://github.com/lensterxyz/lenster)
+- [midwit](https://midwit.vercel.app) — Experiment for combining narrative with smart contracts.
+- [moonbirds](https://www.moonbirds.xyz)
 - [PoolTogether](https://pooltogether.com) — Crypto-powered savings protocol based on Premium Bonds. [GitHub](https://github.com/pooltogether/wallet-connection)
 - [Stripe](https://stripe.com)
 - [SushiSwap](https://sushi.com) — Community-built open-source ecosystem of all the DeFi tools you need 🍣🔱 [GitHub](https://github.com/sushiswap/sushiswap)
-- [midwit](https://midwit.vercel.app) — Experiment for combining narrative with smart contracts.
-- [moonbirds](https://www.moonbirds.xyz)
-- [Flair](https://flair.finance) — Open-source platform to build NFT projects with ready-made contracts, React SDK, and a handy dashboard.
 
 [GitHub Discussion with more projects ](https://github.com/wagmi-dev/wagmi/discussions/201)
 
@@ -65,15 +65,15 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 ### Articles
 
 - [Build and Upload a Fully Decentralised App using Bundlr](https://ropats16.hashnode.dev/build-and-upload-a-fully-decentralised-app-using-bundlr)
-- [`useWaitForTransaction` Twitter thread](https://twitter.com/peduarte/status/1527299439009726466)
 - [Build An NFT Minting Page With RainbowKit & Wagmi](https://ankr.hashnode.dev/build-an-nft-minting-page-with-rainbowkit-wagmi)
+- [`useWaitForTransaction` Twitter thread](https://twitter.com/peduarte/status/1527299439009726466)
 
 ### Tutorials
 
 - [Connect Wallet](https://wagmi.sh/examples/connect-wallet)
+- [Create Custom Connector](https://wagmi.sh/examples/custom-connector)
 - [Sign Message](https://wagmi.sh/examples/sign-message)
 - [Sign-In with Ethereum](https://wagmi.sh/examples/sign-in-with-ethereum)
-- [Create Custom Connector](https://wagmi.sh/examples/custom-connector)
 
 ### Videos
 
