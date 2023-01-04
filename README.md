@@ -28,7 +28,7 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 - [@gnosis.pm/safe-apps-wagmi](https://github.com/safe-global/safe-apps-sdk/tree/master/packages/safe-apps-wagmi) — Connector for [Gnosis Safe](https://gnosis-safe.io)
 - [Ledger Live Wagmi Connector](https://www.npmjs.com/package/@ledgerhq/ledger-live-wagmi-connector) — Connector for [Ledger Live](https://www.ledger.com/ledger-live)
 - [wagmi-magic-connector](https://github.com/EveripediaNetwork/wagmi-magic-connector) — Connector for [Magic](https://magic.link)
-- [Dynamic connector](https://www.npmjs.com/package/@dynamic-labs/wagmi-connector) — Connector for [Dynamic](https://www.dynamic.xyz)
+- [Dynamic Connector](https://www.npmjs.com/package/@dynamic-labs/wagmi-connector) — Connector for [Dynamic](https://www.dynamic.xyz)
 
 ### Dev Tools
 
