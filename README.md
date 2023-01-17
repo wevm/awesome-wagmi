@@ -19,7 +19,9 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 - [@thirdweb-dev/react](https://github.com/thirdweb-dev/react) — thirdweb React SDK
 - [ConnectKit](https://docs.family.co/connectkit) — Connecting a wallet, made simple.
 - [RainbowKit](https://github.com/rainbow-me/rainbowkit) — The best way to connect a wallet 🌈 🧰
+- [rainbowkit-use-siwe-auth](https://github.com/random-bits-studio/rainbowkit-use-siwe-auth) — a [RainbowKit](https://www.rainbowkit.com) authentication adapter for [UseSIWE](https://github.com/random-bits-studio/use-siwe).
 - [ReservoirKit](https://docs.reservoir.tools/docs/reservoir-kit) - A developer toolkit for buying, selling and managing NFTs.
+- [UseSIWE](https://github.com/random-bits-studio/use-siwe) — The easiest way to add Sign-in with Ethereum to your app.
 - [vagmi](https://vagmi.vercel.app) — A WIP Vue port of wagmi
 - [Web3Modal](https://web3modal.com) — Your on-ramp to web3 multichain wallets.
 
