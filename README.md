@@ -62,6 +62,7 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 - [web3-data-fetching](https://github.com/vercel/examples/tree/main/solutions/web3-data-fetching) from [vercel/examples](https://github.com/vercel/examples)
 - [web3-scaffold](https://github.com/holic/web3-scaffold) — Quickly get up and running on web3
 - [web3-sessions](https://github.com/vercel/examples/tree/main/solutions/web3-sessions) from [vercel/examples](https://github.com/vercel/examples)
+- [turborepo-web3-starter-kit](https://github.com/memoriaXII/turborepo-web3-starter-kit)— 📦 All in one Ethereum Dapp monorepo starter kit
 
 ## Resources
 
