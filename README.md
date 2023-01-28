@@ -39,8 +39,10 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 ### Products
 
 - [ENS](https://ens.domains) — Decentralised naming for wallets, websites, & more. [GitHub](https://github.com/ensdomains/ens-app-v3)
+- [Farcaster](https://www.farcaster.xyz/) - Decentralized social network.
 - [Foundation](https://foundation.app) — Foundation is a web3 destination.
 - [Flair](https://flair.finance) — Open-source platform to build NFT projects with ready-made contracts, React SDK, and a handy dashboard.
+- [Launchcaster](https://www.launchcaster.xyz/) - A place to share and discover new Web3 projects. Built on Farcaster & Lens protocols. 
 - [Lenster](https://lenster.xyz) — Decentralized, and permissionless social media app built with Lens Protocol 🌿 [GitHub](https://github.com/lensterxyz/lenster)
 - [midwit](https://midwit.vercel.app) — Experiment for combining narrative with smart contracts.
 - [moonbirds](https://www.moonbirds.xyz)
