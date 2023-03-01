@@ -61,6 +61,7 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 - [create-rainbowkit](https://github.com/rainbow-me/rainbowkit/tree/main/packages/create-rainbowkit) — Scaffold a new RainbowKit + wagmi + Next.js app
 - [create-wagmi](https://github.com/wagmi-dev/create-wagmi) — Create wagmi apps with one command
 - [Nexth](https://github.com/wslyvh/nexth/) — a Next.js + Ethereum starter kit to quickly ship Web3 Apps ⚡
+- [optimism-starter](https://github.com/ethereum-optimism/optimism-starter) A Foundry + Vite starter kit for [Optimism](https://www.optimism.io/) officially maintained by OP Labs
 - [turborepo-web3-starter-kit](https://github.com/memoriaXII/turborepo-web3-starter-kit) — 📦 All in one Ethereum Dapp monorepo starter kit
 - [vite-wagmi-starter](https://github.com/fisand/vite-wagmi-starter)
 - [web3-authentication](https://github.com/vercel/examples/tree/main/solutions/web3-authentication) from [vercel/examples](https://github.com/vercel/examples)
