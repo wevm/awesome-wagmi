@@ -32,6 +32,7 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 - [Dynamic Connector](https://www.npmjs.com/package/@dynamic-labs/wagmi-connector) — Connector for [Dynamic](https://www.dynamic.xyz)
 - [Ledger Live Wagmi Connector](https://www.npmjs.com/package/@ledgerhq/ledger-live-wagmi-connector) — Connector for [Ledger Live](https://www.ledger.com/ledger-live)
 - [wagmi-magic-connector](https://github.com/EveripediaNetwork/wagmi-magic-connector) — Connector for [Magic](https://magic.link)
+- [web3auth-wagmi-connector](https://github.com/Web3Auth/web3auth-wagmi-connector) - Connector for [Web3Auth](https://web3auth.io/)
 
 ### Dev Tools
 
