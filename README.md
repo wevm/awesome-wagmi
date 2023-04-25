@@ -27,11 +27,11 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 
 ### Connectors
 
-- [Privy Connector](https://www.npmjs.com/package/@privy-io/wagmi-connector) — Connector for [Privy](https://www.privy.io)
-- [@gnosis.pm/safe-apps-wagmi](https://github.com/safe-global/safe-apps-sdk/tree/master/packages/safe-apps-wagmi) — Connector for [Gnosis Safe](https://gnosis-safe.io)
-- [Marble Wallet Connector](https://www.npmjs.com/package/@marblexyz/wagmi-connector) — Connector for [Marble](https://www.marblewallet.com)
 - [Dynamic Connector](https://www.npmjs.com/package/@dynamic-labs/wagmi-connector) — Connector for [Dynamic](https://www.dynamic.xyz)
+- [@gnosis.pm/safe-apps-wagmi](https://github.com/safe-global/safe-apps-sdk/tree/master/packages/safe-apps-wagmi) — Connector for [Gnosis Safe](https://gnosis-safe.io)
 - [Ledger Live Wagmi Connector](https://www.npmjs.com/package/@ledgerhq/ledger-live-wagmi-connector) — Connector for [Ledger Live](https://www.ledger.com/ledger-live)
+- [Marble Wallet Connector](https://www.npmjs.com/package/@marblexyz/wagmi-connector) — Connector for [Marble](https://www.marblewallet.com)
+- [Privy Connector](https://www.npmjs.com/package/@privy-io/wagmi-connector) — Connector for [Privy](https://www.privy.io)
 - [wagmi-magic-connector](https://github.com/EveripediaNetwork/wagmi-magic-connector) — Connector for [Magic](https://magic.link)
 - [web3auth-wagmi-connector](https://github.com/Web3Auth/web3auth-wagmi-connector) - Connector for [Web3Auth](https://web3auth.io/)
 
