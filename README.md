@@ -27,6 +27,7 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 
 ### Connectors
 
+- [Privy Connector](https://www.npmjs.com/package/@privy-io/wagmi-connector) — Connector for [Privy](https://www.privy.io)
 - [@gnosis.pm/safe-apps-wagmi](https://github.com/safe-global/safe-apps-sdk/tree/master/packages/safe-apps-wagmi) — Connector for [Gnosis Safe](https://gnosis-safe.io)
 - [Marble Wallet Connector](https://www.npmjs.com/package/@marblexyz/wagmi-connector) — Connector for [Marble](https://www.marblewallet.com)
 - [Dynamic Connector](https://www.npmjs.com/package/@dynamic-labs/wagmi-connector) — Connector for [Dynamic](https://www.dynamic.xyz)
