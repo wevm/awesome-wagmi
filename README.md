@@ -24,6 +24,7 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 - [UseSIWE](https://github.com/random-bits-studio/use-siwe) — The easiest way to add Sign-in with Ethereum to your app.
 - [vagmi](https://vagmi.vercel.app) — A WIP Vue port of wagmi
 - [Web3Modal](https://web3modal.com) — Your on-ramp to web3 multichain wallets.
+- [use-wagmi](https://github.com/unicape/use-wagmi) — Vue Composition for Ethereum port of wagmi
 
 ### Connectors
 
