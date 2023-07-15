@@ -35,6 +35,7 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 - [Privy Connector](https://www.npmjs.com/package/@privy-io/wagmi-connector) — Connector for [Privy](https://www.privy.io)
 - [wagmi-magic-connector](https://github.com/EveripediaNetwork/wagmi-magic-connector) — Connector for [Magic](https://magic.link)
 - [web3auth-wagmi-connector](https://github.com/Web3Auth/web3auth-wagmi-connector) - Connector for [Web3Auth](https://web3auth.io/)
+- [ronin-connector](https://github.com/glitch-txs/ronin-connector) - Connector for [Ronin Network](https://roninchain.com/)
 
 ### Dev Tools
 
