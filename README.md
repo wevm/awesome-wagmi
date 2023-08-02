@@ -39,7 +39,8 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 ### Dev Tools
 
 - [Blacksmith](https://github.com/blacksmith-eth/blacksmith) — Streamline smart contract development with a generated frontend that adapts to your contract interface.
-
+- [EVMts](https://github.com/evmts/evmts-monorepo) — Build tooling for bundling contract code into TypeScript projects with [first-class Wagmi support](https://github.com/evmts/evmts-monorepo/blob/main/examples/beta/src/WagmiExample.tsx).
+- 
 ### Products
 
 - [ENS](https://ens.domains) — Decentralised naming for wallets, websites, & more. [GitHub](https://github.com/ensdomains/ens-app-v3)
