@@ -18,6 +18,7 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 
 - [@thirdweb-dev/react](https://github.com/thirdweb-dev/react) — thirdweb React SDK
 - [ConnectKit](https://docs.family.co/connectkit) — Connecting a wallet, made simple.
+- [date-to-block](https://github.com/larskarbo/date-to-block) - Get a block number from a date, using Viem
 - [RainbowKit](https://github.com/rainbow-me/rainbowkit) — The best way to connect a wallet 🌈 🧰
 - [rainbowkit-use-siwe-auth](https://github.com/random-bits-studio/rainbowkit-use-siwe-auth) — a [RainbowKit](https://www.rainbowkit.com) authentication adapter for [UseSIWE](https://github.com/random-bits-studio/use-siwe).
 - [ReservoirKit](https://docs.reservoir.tools/docs/reservoir-kit) - A developer toolkit for buying, selling and managing NFTs.
