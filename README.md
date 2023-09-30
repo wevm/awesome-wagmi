@@ -49,7 +49,7 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 - [Foundation](https://foundation.app) — Foundation is a web3 destination.
 - [Flair](https://flair.finance) — Open-source platform to build NFT projects with ready-made contracts, React SDK, and a handy dashboard.
 - [Launchcaster](https://www.launchcaster.xyz/) - A place to share and discover new Web3 projects. Built on Farcaster & Lens protocols. 
-- [Lenster](https://lenster.xyz) — Decentralized, and permissionless social media app built with Lens Protocol 🌿 [GitHub](https://github.com/lensterxyz/lenster)
+- [Hey](https://hey.xyz) — Decentralized, and permissionless social media app built with Lens Protocol 🌿 [GitHub](https://github.com/heyxyz/hey)
 - [midwit](https://midwit.vercel.app) — Experiment for combining narrative with smart contracts.
 - [moonbirds](https://www.moonbirds.xyz)
 - [PoolTogether](https://pooltogether.com) — Crypto-powered savings protocol based on Premium Bonds. [GitHub](https://github.com/pooltogether/wallet-connection)
